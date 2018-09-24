@@ -1,6 +1,18 @@
 # `Py-Ressources`
 _Various ressources in relation to Python_
 
+### `Official site`
+[python.org](https://www.python.org/)  
+[Official documentation](https://docs.python.org/3/)  
+[Python Package Index](https://pypi.org/)  
+[PEPs (Python Enhancement Proposals)](https://www.python.org/dev/peps/)  
+
+
+### `Reddit`
+[r/learnpython](https://www.reddit.com/r/learnpython)  
+[r/python](https://www.reddit.com/r/python)  
+[r/machinelearning](https://www.reddit.com/r/machinelearning)  
+
 ### `NumPy`
 [NumPy Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)  
 [NumPy and Pandas Tutorial – Data Analysis with Python](https://cloudxlab.com/blog/numpy-pandas-introduction/)  
@@ -13,6 +25,6 @@ _Various ressources in relation to Python_
 [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
 [Matplotlib Tips and Demos](http://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Jwink3101/e6b57eba3beca4b05ec146d9e38fc839/raw/f486ca3dcad44c33fc4e7ddedc1f83b82c02b492/Matplotlib_Cheatsheet)  
 
-### `Various Depp Learning`
+### `Various Deep Learning`
 [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)  
 
