@@ -24,6 +24,7 @@ _Various ressources in relation to Python_
 [Matplotlib Tutorials (official site)](https://matplotlib.org/tutorials/index.html)  
 [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
 [Matplotlib Tips and Demos](http://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Jwink3101/e6b57eba3beca4b05ec146d9e38fc839/raw/f486ca3dcad44c33fc4e7ddedc1f83b82c02b492/Matplotlib_Cheatsheet)  
+[Matplotlib tutorial for beginner](https://github.com/rougier/matplotlib-tutorial)  
 
 ### `Various Deep Learning`
 [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)  
