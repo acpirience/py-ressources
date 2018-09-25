@@ -7,11 +7,13 @@ _Various ressources in relation to Python_
 [Python Package Index](https://pypi.org/)  
 [PEPs (Python Enhancement Proposals)](https://www.python.org/dev/peps/)  
 
-
 ### `Reddit`
 [r/learnpython](https://www.reddit.com/r/learnpython)  
 [r/python](https://www.reddit.com/r/python)  
 [r/machinelearning](https://www.reddit.com/r/machinelearning)  
+
+### `Tutorials`
+[Real Python Tutorials](https://realpython.com/)  
 
 ### `NumPy`
 [NumPy Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)  
