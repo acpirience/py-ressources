@@ -15,6 +15,11 @@ _Various ressources in relation to Python_
 ### `Tutorials`
 [Real Python Tutorials](https://realpython.com/)  
 
+### `Flask`
+[Official Flask Site](flask.pocoo.org)  
+[Awesome Flask](https://github.com/humiaozuzu/awesome-flask)  
+[The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)  
+
 ### `NumPy`
 [NumPy Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)  
 [NumPy and Pandas Tutorial – Data Analysis with Python](https://cloudxlab.com/blog/numpy-pandas-introduction/)  
