@@ -7,10 +7,13 @@ _Various ressources in relation to Python_
 [Python Package Index](https://pypi.org/)  
 [PEPs (Python Enhancement Proposals)](https://www.python.org/dev/peps/)  
 
-### `Reddit`
+### `Reddit/News`
 [r/learnpython](https://www.reddit.com/r/learnpython)  
 [r/python](https://www.reddit.com/r/python)  
 [r/machinelearning](https://www.reddit.com/r/machinelearning)  
+[Planet Python](https://planetpython.org/)  
+[Python Weekly](https://www.pythonweekly.com/)  
+[PyBites](https://pybit.es/)  
 
 ### `Tutorials`
 [Real Python Tutorials](https://realpython.com/)  
