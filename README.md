@@ -1,7 +1,7 @@
 # `Py-Ressources`
 _Various ressources in relation to Python_
 
-### `Official site`
+### `Official sites`
 [python.org](https://www.python.org/)  
 [Official documentation](https://docs.python.org/3/)  
 [Python Package Index](https://pypi.org/)  
@@ -17,6 +17,9 @@ _Various ressources in relation to Python_
 
 ### `Tutorials`
 [Real Python Tutorials](https://realpython.com/)  
+
+### `Ressources`
+[Awesome Python](https://github.com/vinta/awesome-python)
 
 ### `Flask`
 [Official Flask Site](flask.pocoo.org)  
