@@ -20,7 +20,7 @@ _Various ressources in relation to Python_
 
 ### `Ressources/books`
 [Awesome Python](https://github.com/vinta/awesome-python)  
-[Book: Fluent Python](http://shop.oreilly.com/product/0636920032519.do) [github](https://github.com/fluentpython)  
+[Book: Fluent Python](http://shop.oreilly.com/product/0636920032519.do) [(github)](https://github.com/fluentpython)  
 
 ### `Flask`
 [Official Flask Site](flask.pocoo.org)  
