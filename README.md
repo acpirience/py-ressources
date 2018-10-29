@@ -27,6 +27,7 @@ _Various ressources in relation to Python_
 [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)  
 [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)  
 [Full Stack Python - Flask](https://www.fullstackpython.com/flask.html)  
+[Token based authentication with Flask](https://realpython.com/token-based-authentication-with-flask/)  
  
 ### `NumPy`
 [NumPy Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)  
