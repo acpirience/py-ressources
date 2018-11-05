@@ -11,6 +11,7 @@ _Various ressources in relation to Python_
 [r/learnpython](https://www.reddit.com/r/learnpython)  
 [r/python](https://www.reddit.com/r/python)  
 [r/machinelearning](https://www.reddit.com/r/machinelearning)  
+[Python Awesome](https://pythonawesome.com/)  
 [Planet Python](https://planetpython.org/)  
 [Python Weekly](https://www.pythonweekly.com/)  
 [PyBites](https://pybit.es/)  
@@ -20,6 +21,7 @@ _Various ressources in relation to Python_
 
 ### `Ressources/books`
 [Awesome Python](https://github.com/vinta/awesome-python)  
+[Fucking Awesome Python](https://github.com/trananhkma/fucking-awesome-python)  
 [Book: Fluent Python](http://shop.oreilly.com/product/0636920032519.do) [(github)](https://github.com/fluentpython)  
 
 ### `Flask`
