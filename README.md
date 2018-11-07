@@ -20,6 +20,7 @@ _Various ressources in relation to Python_
 [Real Python Tutorials](https://realpython.com/)  
 
 ### `Ressources/books`
+[PyTricks](https://github.com/brennerm/PyTricks)  
 [Awesome Python](https://github.com/vinta/awesome-python)  
 [Fucking Awesome Python](https://github.com/trananhkma/fucking-awesome-python)  
 [Book: Fluent Python](http://shop.oreilly.com/product/0636920032519.do) [(github)](https://github.com/fluentpython)  
