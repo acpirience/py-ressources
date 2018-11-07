@@ -18,6 +18,7 @@ _Various ressources in relation to Python_
 
 ### `Tutorials`
 [Real Python Tutorials](https://realpython.com/)  
+[Magical universe](https://github.com/zotroneneis/magical_universe)  
 
 ### `Ressources/books`
 [PyTricks](https://github.com/brennerm/PyTricks)  
